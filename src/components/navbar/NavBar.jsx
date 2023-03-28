@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
 import "./navbar.css";
+// import { Link } from "react-router-dom";
 import logo from "../../assets/kj_dev_logo.png";
 
 const NavBar = () => {
