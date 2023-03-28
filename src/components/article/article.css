@@ -1,0 +1,15 @@
+.gpt3__article {
+  display: flex;
+  flex-direction: column;
+}
+
+.gpt3__article-image {
+  flex: 1;
+  min-width: 210px;
+  max-width: 350px;
+  display: flex;
+}
+
+.gpt3__article-image img {
+  width: 100%;
+}
