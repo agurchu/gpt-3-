@@ -30,14 +30,14 @@ const Footer = () => {
           <h4>Company</h4>
           <p>Terms & Conditions</p>
           <p>Privacy Policy</p>
-          <p>Contact</p>>
+          <p>Contact</p>
         </div>
         <div className="gpt3__footer-links_div">
           <h4>Get in touch</h4>
           <p>Church Street South Africa</p>
           <p>063 734 2965</p>
 
-          <p>katlegoj.dev#gmail.com</p>
+          <p>katlegoj.dev@gmail.com</p>
         </div>
       </div>
 
